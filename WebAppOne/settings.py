@@ -25,7 +25,7 @@ SECRET_KEY = '1&*%ja%(zum8zxct2ti!nu-b@@)=a*u&fsmhr&@@^tz-1z7nex'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['52.91.57.7' ]
+ALLOWED_HOSTS = ['django.idearative.com' ]
 
 
 # Application definition
