@@ -1,10 +1,10 @@
-<html>
-   <head>
-     <title>My first Django View page</title>
-   </head>
-  
-   <body>
+{% extends core_templ.html %}
 
-	<h1>Welcome!</h1>
-   </body>
-</html>
+{% block pagetitle %}
+<title>MDjango Test Project Homepage</title>
+{% endblock %}
+
+{% block MainContent %}
+    <h2>Home Page</h2>
+
+{% endblock %}
