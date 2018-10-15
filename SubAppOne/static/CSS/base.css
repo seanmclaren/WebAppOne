@@ -1,9 +1,13 @@
+.title_area {
+    margin-right: 30%;
+    margin-left:  30%;
+}
+
 .main_title {
     border-bottom: 3px solid maroon;
     text-shadow: -2px 2px 4px darkslategrey;
     text-align: center;
-    margin-right: 30%;
-    margin-left:  30%;
+
 }
 
 .menu {

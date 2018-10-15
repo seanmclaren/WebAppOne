@@ -13,12 +13,14 @@
     </head>
 
     <body>
+        <div class="title_area">
         <h1 class="main_title">Sean's Django Test Site</h1>
         <ul class="menu">
             <li class="menu_item"><a href="{% url 'home' %}">Home</a></li>
             <li class="menu_item"><a href="{% url 'appCollection' %}">App Collection</a></li>
             <li class="menu_item"><a href="{% url 'about' %}"> About</a></li>
         </ul>
+        </div>
         {% block MainContent %}
 
         {% endblock %}
