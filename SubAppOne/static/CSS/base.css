@@ -1,7 +1,10 @@
 .main_title {
+    background-color: blueviolet;
     color: darkgrey;
     text-shadow: -2px 2px 4px black;
     text-align: center;
+    margin-right: 30%;
+    margin-left:  30%;
 }
 
 .menu {
