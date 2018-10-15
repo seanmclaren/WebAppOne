@@ -13,9 +13,9 @@
     <body>
         <h1>Sean's Django Test Site</h1>
         <ul class="menu">
-            <li><a href="{% url 'home' %}">Home</a></li>
-            <li><a href="{% url 'appCollection' %}">App Collection</a></li>
-            <li><a href="{% url 'about' %}"> About</a></li>
+            <li class="menu_item"><a href="{% url 'home' %}">Home</a></li>
+            <li class="menu_item"><a href="{% url 'appCollection' %}">App Collection</a></li>
+            <li class="menu_item"><a href="{% url 'about' %}"> About</a></li>
         </ul>
         {% block MainContent %}
 
