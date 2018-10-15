@@ -15,13 +15,14 @@
     display: inline;
     margin: 0 5px 0 0;
     padding: 5px 20px 5px 0;
-    border-color: white;
+    border-color: ;
     text-align: center;
 }
 
 .menu_item>a {
     text-decoration: none;
-    color: slateblue ;
+    color: burlywood;
+    text-shadow: -1px 1px 2px black;
 }
 
 .menu_item>a:hover {
