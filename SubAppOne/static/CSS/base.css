@@ -13,14 +13,15 @@
 .menu_item {
     display: inline;
     margin: 0 5px 0 0;
-    padding: 5px 20px 0 0;
+    padding: 5px 10px 5px 10px;
     border: 1px solid darkslategrey;
     text-align: center;
+    border-radius: 3px;
 }
 
 .menu_item>a {
     text-decoration: none;
-    color: burlywood;
+    color: indigo;
     text-shadow: -1px 1px 2px black;
 }
 
