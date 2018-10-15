@@ -1,6 +1,5 @@
 .main_title {
-    border-color: blueviolet;
-
+    border: 3px solid blueviolet;
     color: darkgrey;
     text-shadow: -2px 2px 4px black;
     text-align: center;
