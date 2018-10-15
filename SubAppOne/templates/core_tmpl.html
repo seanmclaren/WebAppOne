@@ -7,11 +7,12 @@
         {% endblock %}
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="CSS/base.css">
     </head>
 
     <body>
         <h1>Sean's Django Test Site</h1>
-        <ul>
+        <ul class="menu">
             <li><a href="{% url 'home' %}">Home</a></li>
             <li><a href="{% url 'appCollection' %}">App Collection</a></li>
             <li><a href="{% url 'about' %}"> About</a></li>
