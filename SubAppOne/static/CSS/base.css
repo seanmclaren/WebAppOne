@@ -22,9 +22,9 @@
 .menu_item>a {
     text-decoration: none;
     color: indigo;
-    text-shadow: -1px 1px 2px black;
+    text-shadow: -1px 1px 2px darkgrey;
 }
 
 .menu_item>a:hover {
-    text-shadow: -1px 1px 2px darkgrey;
+    text-shadow: -1px 1px 2px black;
 }
