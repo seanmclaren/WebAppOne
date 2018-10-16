@@ -6,14 +6,14 @@
 .main_title {
     border-bottom: 3px solid maroon;
     padding-bottom: 5px;
-    text-shadow: -2px 2px 4px darkslategrey;
+    text-shadow: -2px 1px 2px #4c4da5;
     text-align: center;
 
 }
 
 .menu {
     margin-right: 10%;
-    margin-left:  5%;
+    margin-left:  4%;
     text-align: center;
 }
 
