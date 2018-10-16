@@ -11,16 +11,16 @@
 }
 
 .menu {
-    margin-right: 10%;
+    margin-right: 5%;
     margin-left:  10%;
     text-align: center;
 }
 
 .menu_item {
-    display: inline-block;
-    margin: 0 5px 0 0;
+    display: inline;
+    margin: 0 0 0 0;
     padding: 5px 10px 5px 10px;
-    border: 1px solid darkslategrey;
+    border: 2px solid darkslategrey;
     text-align: center;
     border-radius: 3px;
 }
